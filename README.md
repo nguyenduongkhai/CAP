@@ -7,3 +7,5 @@ whether or not to offer the applicant a credit card. Credit scores can be used t
 measure the severity of a risk. Our purpose is to distinguish multiple factors that influence the
 probability of overdue payments, to categorize ‘good’ and ‘bad’ clients for future credit card
 approvals
+
+## [See more Report](Project Report - CP3403.pdf)
