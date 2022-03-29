@@ -8,4 +8,4 @@ measure the severity of a risk. Our purpose is to distinguish multiple factors t
 probability of overdue payments, to categorize ‘good’ and ‘bad’ clients for future credit card
 approvals
 
-## [See more Report](Project Report - CP3403.pdf)
+## [See more Report](https://github.com/nguyenduongkhai/Creadit_Card_Approval/blob/5e06b083a9960e3ed67733014ed11e8cc1e83e48/Project%20Report%20-%20CP3403.pdf)
