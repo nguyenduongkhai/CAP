@@ -1,4 +1,4 @@
-﻿# Creadit Card Project
+﻿# Credit Card Project
  
  In the banking business, credit score cards are a frequent risk control approach. It
 predicts the likelihood of future defaults and credit card borrowings based on personal
