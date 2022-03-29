@@ -10,4 +10,4 @@ approvals
 
 ## [See more Report](https://github.com/nguyenduongkhai/Creadit_Card_Approval/blob/5e06b083a9960e3ed67733014ed11e8cc1e83e48/Project%20Report%20-%20CP3403.pdf)
 ## [Data](https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction)
-## [Demo on Youtuve](https://youtu.be/9j48ieeJvUE)
+## [Demo on Youtube](https://youtu.be/9j48ieeJvUE)
